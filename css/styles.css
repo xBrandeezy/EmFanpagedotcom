@@ -1,0 +1,25 @@
+h1 {color: #99A799;
+text-align: center;}
+
+h2 {text-align: center;}
+
+p {text-align: center;}
+
+hr{ border-style: none;
+    border-top: dotted;
+    border-color: dimgray;
+    border-width: 5px;
+    width: 25%;}
+
+
+body
+{background-color: #D3E4CD;}
+
+.em1 {background-color: #F2DDC1;}
+
+.em2 {background-color: #E2C2B9;}
+
+.em3 {background-color: #F2DDC1;}
+
+.emVids {background-color: #E2C2B9;}
+
